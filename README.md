@@ -69,11 +69,6 @@ export SN_INSTANCE="https://your-instance.service-now.com"
 export SN_USERNAME="your_username"
 export SN_PASSWORD="your_password"
 ```
-
-> ⚠️ **Never commit credentials to version control.** Add `.env` to your `.gitignore`.
-
----
-
 ## 🔌 Connecting to Claude Desktop
 
 Add the server to your Claude Desktop config file:
