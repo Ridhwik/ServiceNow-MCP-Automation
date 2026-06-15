@@ -47,11 +47,6 @@ This server covers virtually the entire ServiceNow development surface area:
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/YOUR_USERNAME/servicenow-ultra-mcp.git
-cd servicenow-ultra-mcp
-```
-
 ### 2. Install dependencies
 
 ```bash
